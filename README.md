@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Magento
+- 📫 How to reach me: julianomachado@protonmail.com
+
 
 [![Juliano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianoMedeirosMachado)](https://github.com/anuraghazra/github-readme-stats)
