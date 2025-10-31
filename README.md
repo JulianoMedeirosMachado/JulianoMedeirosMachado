@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Magento
+- 💻 I’m currently working as a Salesforce Developer.
 - 📫 How to reach me: julianomachado@protonmail.com
 
 
