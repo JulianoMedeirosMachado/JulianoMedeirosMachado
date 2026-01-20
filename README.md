@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: julianomachado@protonmail.com
 
 
-[![Juliano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianoMedeirosMachado)](https://github.com/anuraghazra/github-readme-stats)
+[![Juliano's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=JulianoMedeirosMachado](https://github-readme-stats-vercel-phi-three.vercel.app/api?username=JulianoMedeirosMachado&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
